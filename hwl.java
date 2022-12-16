@@ -8,5 +8,6 @@ public class  hwl {
 
         String firstline = "Hello,agian!";
         System.out.println(firstline);
+        System.out.println((int)'ก');
     }
 }
