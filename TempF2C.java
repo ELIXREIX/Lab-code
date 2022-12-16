@@ -6,5 +6,6 @@ public class TempF2C {
     double F = scanner.nextDouble();
     double Cel = (F - 32) * 5/9;
     System.out.println("C is: " + Cel);
+    scanner.close();
   }
 }

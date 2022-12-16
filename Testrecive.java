@@ -12,6 +12,7 @@ int b= sc.nextInt();
 System.out.print("Enter third number- ");  
 int c= sc.nextInt();  
 int d=a+b+c;  
-System.out.println("Total= " +d);  
+System.out.println("Total= " +d);
+sc.close();
 }  
 }
