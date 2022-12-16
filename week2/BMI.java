@@ -4,9 +4,10 @@ public class BMI {
     Scanner scanner = new Scanner(System.in);
     System.out.print("Enter your weight in kilograms: ");
     double weight = scanner.nextDouble();
-    System.out.print("Enter your height in meters: ");
+    System.out.print("Enter your height in centimeters: ");
     double height = scanner.nextDouble();
-    double bmi = weight / (Math.pow(height,2) );
+    double heightmeters = height / 100.0;
+    double bmi = weight / (Math.pow(heightmeters,2) );
     scanner.close();
     System.out.println("Your BMI is: " + bmi);
     if (bmi < 18.5) {
