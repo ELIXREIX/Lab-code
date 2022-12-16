@@ -5,9 +5,10 @@ public class  hwl {
         a = 3;
         System.out.println(a);
         System.out.println(b);
-
         String firstline = "Hello,agian!";
         System.out.println(firstline);
         System.out.println((int)'ก');
+        System.out.println((char)3614);
+        System.out.println(true && false);
     }
 }
