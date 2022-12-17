@@ -6,8 +6,8 @@ public class lab2 {
         double c = -4;
         double root1 = (-b + Math.sqrt(b*b - 4*a*c)) / (2*a);
         double root2 = (-b - Math.sqrt(b*b - 4*a*c)) / (2*a);
-        System.out.println("x 1 " + root1);
-        System.out.println("x 2: " + root2);
+        System.out.println("y 1 " + root1);
+        System.out.println("y 2: " + root2);
   }
 }
 
