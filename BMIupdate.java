@@ -26,4 +26,4 @@ public class BMIupdate {
         System.out.println("Indanger of death");
     }
   }
-} 
+}
