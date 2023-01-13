@@ -1,5 +1,5 @@
 package week5;
-public class test {
+public class pa7 {
     public static void main(String[] args) {
     int i = 20;
     while (i <= 30) {
