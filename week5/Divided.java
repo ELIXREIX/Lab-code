@@ -4,7 +4,7 @@ public class Divided {
     public static int divided (int number) {
         int i = 1;
         while (i <= number) {
-            if (number % i == 0) {
+            if (number % i == 0 && i != number) {
                 System.out.print(i + " ");
             }
             i++;
