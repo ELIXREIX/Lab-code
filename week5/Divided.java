@@ -1,7 +1,7 @@
 package week5;
 import java.util.Scanner;
 public class Divided {
-    public static int divided (int number) {
+    public static Integer divided (int number) {
         int i = 1;
         while (i <= number) {
             if (number % i == 0 && i != number) {
