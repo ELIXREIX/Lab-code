@@ -12,30 +12,22 @@ class students {
 
     public students(int i) {
     }
-
     //Method
     public void setName (String stundentName){
-
         Name = stundentName;
-
     }
-
     public String getName() {
         return Name;
     }
-
     public String getstudentID() {
         return StudentID ;
     }
-
     public void setMajor(String majorname) {
         Major = majorname;
-    
     }
     public String getmajor () {
         return Major ;
     }
-    
     public void sayhello (){
         System.out.println("สวัสดี " + Name + " มาจากสาขา " + Major + " อยากบอกว่า " + message);
     }
