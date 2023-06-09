@@ -5,8 +5,8 @@ public class Encap {
         Employee a = new Employee();
         a.id = 552300158 ;
         a.name = "Suphachote" ;
-        a.salary = 10_000_000;
-        a.setSalary(10_000_000);
+        //a.salary = 10_000_000;
+        a.setSalary(1000000);
         System.out.println(a.getsalary());
 
     }
@@ -15,7 +15,7 @@ public class Encap {
 class Employee {
     public int id;
     public String name;
-    public double salary;
+    private double salary;
 
     public void setSalary (int salary){
         this.salary = salary;

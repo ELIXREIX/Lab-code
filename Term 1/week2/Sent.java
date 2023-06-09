@@ -1,3 +1,4 @@
+package week2;
 public class Sent {
     public static void main(String[] args) { 
 
