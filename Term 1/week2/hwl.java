@@ -1,4 +1,4 @@
-package week2;
+
 
 public class  hwl {
     public static void main(String[] args) {

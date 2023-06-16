@@ -1,4 +1,4 @@
-package week2;
+
 
 public class CentToInch {
     public static void main(String[] args) {
