@@ -1,4 +1,4 @@
-package test;
+
 import java.util.Scanner;
 public class TaxiFare {
     public static void main(String[] args) {

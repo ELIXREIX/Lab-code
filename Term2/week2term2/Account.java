@@ -7,6 +7,14 @@ public class Account {
 
         Accounta me = new Accounta(100); //เงิน 100 
 
+        me.setNumber("6552300158");
+
+        System.out.println(me.getNumber());
+
+        me.setName("Suphachote Baochalee");
+
+        System.out.println(me.getName());
+        
         me.deposit(300); // เงิน 100+300 = 400 
 
         System.out.println(me.getBalance());  
@@ -20,7 +28,23 @@ public class Account {
 
 class Accounta { 
 
-/// ทำเพิ่มเติมเพื่อเก็บข้อมูล 
+private String AccountNumber;
+
+private String Name;
+public void setNumber(String Accountnumber){
+        AccountNumber = Accountnumber;
+}
+public String getNumber(){
+    
+    return AccountNumber;
+}
+public void setName(String AccountName){
+     Name = AccountName;
+}
+public String getName(){
+    
+    return Name;
+}
 
 private double balance; 
 

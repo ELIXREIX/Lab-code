@@ -5,9 +5,8 @@ public class looparraysum {
 
         int[] numbers = {111, 222, 333, 444, 555};
 
-        int sum = 0; // Initialize sum variable
+        int sum = 0; 
 
-        // Loop through the array and add each element to the sum
         for (int i = 0; i < numbers.length; i++) {
             sum += numbers[i];
         }
