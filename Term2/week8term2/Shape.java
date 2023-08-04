@@ -37,5 +37,7 @@ public abstract class Shape {
         Formatter  formatter = new Formatter(sb);
         formatter.format("A Shape with color of %s and %s", color, (filled ? "filled" : "not filled"));
         return sb.toString();
+        
     }
+    
 }
