@@ -13,7 +13,6 @@ public class Booktest {
         Book booknum3= new Book("DEEP WORK", new Author("CAL NEWPORT", "-", 'f'), 243.00);
         System.out.println(booknum3);
       
-   
 
     }
     

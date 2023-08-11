@@ -1,4 +1,4 @@
-
+package Term2.week1term2;
 import java.util.Scanner;
 
 public class checkid {

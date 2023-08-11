@@ -1,5 +1,5 @@
 package Term2.week8term2;
-import java.util.Formatter;
+
 public abstract class Shape {
     
     private String  color   = "red";
@@ -34,8 +34,8 @@ public abstract class Shape {
     @Override
     public String toString() {
         StringBuilder sb        = new StringBuilder();
-        Formatter  formatter = new Formatter(sb);
-        formatter.format("A Shape with color of %s and %s", color, (filled ? "filled" : "not filled"));
+        //Formatter  formatter = new Formatter(sb);
+        //formatter.format("A Shape with color of %s and %s", color, (filled ? "filled" : "not filled"));
         return sb.toString();
         
     }
