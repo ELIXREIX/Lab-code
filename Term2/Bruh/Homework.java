@@ -1,4 +1,4 @@
-package Bruh;
+package Term2.Bruh;
 
 import java.io.*;
 import java.nio.file.*;
@@ -11,14 +11,14 @@ public class Homework {
         int endFileIndex = findHighestIndex(); // Automatically determine the end index
 
         for (int i = startFileIndex; i <= endFileIndex; i++) {
-            String inputFilePath = "Bruh/Sheet/file" + i + ".csv";
+            String inputFilePath = "Term2/Bruh/Sheet/file" + i + ".csv";
             processCSVFile(inputFilePath);
         }
     }
 
 
     public static int findHighestIndex() {
-        File folder = new File("Bruh/Sheet");
+        File folder = new File("Term2/Bruh/Sheet");
         File[] files = folder.listFiles();
 
         int highestIndex = 0;

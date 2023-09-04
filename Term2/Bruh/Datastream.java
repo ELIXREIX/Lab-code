@@ -1,4 +1,4 @@
-package Bruh;
+package Term2.Bruh;
 
 import java.io.BufferedInputStream; 
 
@@ -74,10 +74,7 @@ public class Datastream {
         try { 
 
             while (true) { 
-
                 
-                
-
                 price = in.readDouble(); 
 
                 unit = in.readInt(); 

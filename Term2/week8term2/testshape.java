@@ -6,7 +6,7 @@ public class testshape {
         System.out.println(a);
         Rectangle b = new Rectangle(4, 6);
         System.out.println(b);
-        Square c = new Square(1, null, false);
+        Square c = new Square(1);
         System.out.println(c);
     }
 }

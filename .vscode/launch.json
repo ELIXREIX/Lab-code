@@ -1,0 +1,350 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Monumenttest",
+            "request": "launch",
+            "mainClass": "Term2.TEST.Monumenttest",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "Datastream",
+            "request": "launch",
+            "mainClass": "Term2.Bruh.Datastream",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "TestCircle",
+            "request": "launch",
+            "mainClass": "Term2.LAB8.TestCircle",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "Homework",
+            "request": "launch",
+            "mainClass": "Term2.Bruh.Homework",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "Homework2",
+            "request": "launch",
+            "mainClass": "Term2.Bruh.Homework2",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Datastream",
+            "request": "launch",
+            "mainClass": "Bruh.Datastream",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "Deserialize",
+            "request": "launch",
+            "mainClass": "Bruh.Deserialize",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "Homework",
+            "request": "launch",
+            "mainClass": "Bruh.Homework",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "Homework2",
+            "request": "launch",
+            "mainClass": "Bruh.Homework2",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "New",
+            "request": "launch",
+            "mainClass": "Bruh.New",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "SerializeDemo",
+            "request": "launch",
+            "mainClass": "Bruh.SerializeDemo",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "Bruh.Student",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "WriteStudent",
+            "request": "launch",
+            "mainClass": "Bruh.WriteStudent",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "canimport",
+            "request": "launch",
+            "mainClass": "Bruh.canimport",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "copy",
+            "request": "launch",
+            "mainClass": "Bruh.copy",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "copyline",
+            "request": "launch",
+            "mainClass": "Bruh.copyline",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "Leapyear",
+            "request": "launch",
+            "mainClass": "Leapyear",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "TaxiFare",
+            "request": "launch",
+            "mainClass": "TaxiFare",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "Encap",
+            "request": "launch",
+            "mainClass": "Term2.week1term2.Encap",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "IntDouble",
+            "request": "launch",
+            "mainClass": "Term2.week1term2.IntDouble",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "checkid",
+            "request": "launch",
+            "mainClass": "Term2.week1term2.checkid",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "getstarted",
+            "request": "launch",
+            "mainClass": "Term2.week1term2.getstarted",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "IS1",
+            "request": "launch",
+            "mainClass": "Term2.week1term2.oopweek1.IS1",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "dialog",
+            "request": "launch",
+            "mainClass": "Term2.week1term2.oopweek1.dialog",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "looparraysum",
+            "request": "launch",
+            "mainClass": "Term2.week1term2.oopweek1.looparraysum",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "Term2.week1term2.test",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "Account",
+            "request": "launch",
+            "mainClass": "Term2.week2term2.Account",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "Calculation",
+            "request": "launch",
+            "mainClass": "Term2.week2term2.Homework2.Calculation",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "IdentifyMyParts",
+            "request": "launch",
+            "mainClass": "Term2.week2term2.Homework2.IdentifyMyParts",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "ProductTest",
+            "request": "launch",
+            "mainClass": "Term2.week2term2.Homework2.ProductTest",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "TimeConverter",
+            "request": "launch",
+            "mainClass": "Term2.week2term2.TimeConverter",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "display",
+            "request": "launch",
+            "mainClass": "Term2.week2term2.display",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "dog",
+            "request": "launch",
+            "mainClass": "Term2.week2term2.dog",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "findaverage",
+            "request": "launch",
+            "mainClass": "Term2.week2term2.findaverage",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "summm",
+            "request": "launch",
+            "mainClass": "Term2.week2term2.summm",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "Testweek3",
+            "request": "launch",
+            "mainClass": "Term2.week3term2.Homework3.Testweek3",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "studenttest",
+            "request": "launch",
+            "mainClass": "Term2.week3term2.Homework3.studenttest",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "Time2test",
+            "request": "launch",
+            "mainClass": "Term2.week3term2.Time2test",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "datetest",
+            "request": "launch",
+            "mainClass": "Term2.week3term2.datetest",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "Employeetest",
+            "request": "launch",
+            "mainClass": "Term2.week4term2.Employeetest",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "Authortest",
+            "request": "launch",
+            "mainClass": "Term2.week5term2.Authortest",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "Booktest",
+            "request": "launch",
+            "mainClass": "Term2.week5term2.Booktest",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "TestRun",
+            "request": "launch",
+            "mainClass": "Term2.week5term2.TestRun",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "User",
+            "request": "launch",
+            "mainClass": "Term2.week5term2.User",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "TestAnimal",
+            "request": "launch",
+            "mainClass": "Term2.week7term2.TestAnimal",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "testshapefile",
+            "request": "launch",
+            "mainClass": "Term2.week7term2.testshapefile",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "midterm",
+            "request": "launch",
+            "mainClass": "Term2.week8term2.midterm",
+            "projectName": "Lab-code_139e0613"
+        },
+        {
+            "type": "java",
+            "name": "testshape",
+            "request": "launch",
+            "mainClass": "Term2.week8term2.testshape",
+            "projectName": "Lab-code_139e0613"
+        }
+    ]
+}

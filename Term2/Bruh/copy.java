@@ -1,4 +1,4 @@
-package Bruh;
+package Term2.Bruh;
 import java.io.FileReader; 
 
 import java.io.FileWriter; 

@@ -1,4 +1,4 @@
-package Bruh;
+package Term2.Bruh;
 
 /// Serialize Student 
  
@@ -18,19 +18,20 @@ private String surname;
 private String id; 
 private String major; 
 private double GPA; 
-public Student () { 
-Scanner input = new Scanner (System.in); 
-System.out.println("โปรดใส่รายละเอียดของชื่อ"); 
-name = input.nextLine(); 
-System.out.println("โปรดใส่รายละเอียดของนามสกุล"); 
-surname = input.nextLine(); 
-System.out.println("โปรดใส่รายละเอียดของรหัสนักศึกษา"); 
-id = input.nextLine(); 
-System.out.println("โปรดใส่รายละเอียดของสาขาวิชา"); 
-major = input.nextLine(); 
-System.out.println("โปรดใส่รายละเอียดของ GPA"); 
-GPA = input.nextDouble(); 
-} 
+public Student() {
+    Scanner input = new Scanner(System.in);
+    System.out.println("โปรดใส่รายละเอียดของชื่อ");
+    name = input.nextLine();
+    System.out.println("โปรดใส่รายละเอียดของนามสกุล");
+    surname = input.nextLine();
+    System.out.println("โปรดใส่รายละเอียดของรหัสนักศึกษา");
+    id = input.nextLine();
+    System.out.println("โปรดใส่รายละเอียดของสาขาวิชา");
+    major = input.nextLine();
+    System.out.println("โปรดใส่รายละเอียดของ GPA");
+    GPA = input.nextDouble();
+    input.close(); // Close the Scanner object
+}
 public void serialize(String filename){ 
 try 
 { 

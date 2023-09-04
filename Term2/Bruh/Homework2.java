@@ -1,4 +1,4 @@
-package Bruh;
+package Term2.Bruh;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -8,8 +8,8 @@ import java.io.IOException;
 
 public class Homework2 {
     public static void main(String[] args) {
-        String[] inputFiles = {"Bruh/Sheet/file1.csv", "Bruh/Sheet/file2.csv"};
-        String[] outputFiles = {"Bruh/Sheet/output1.txt", "Bruh/Sheet/output2.txt"};
+        String[] inputFiles = {"Term2/Bruh/Sheet/file1.csv", "Term2/Bruh/Sheet/file2.csv"};
+        String[] outputFiles = {"Term2/Bruh/Sheet/output1.txt", "Term2/Bruh/Sheet/output2.txt"};
         
         for (int i = 0; i < inputFiles.length; i++) {
             int sum = readAndSumFile(inputFiles[i]);

@@ -5,7 +5,7 @@ public class Person {
     private String address;
     
      public Person(String Name , String Address){
-         System.out.println("Invoke Person(String name, String address)");
+         
          name = Name;
          address =Address;
 }
